@@ -2,7 +2,11 @@
 Automated Tableau dashboard analysing YouTube trending videos by category, region, and time to support advertising planning decisions.
 
 This project delivers an automated **Tableau Public dashboard** designed for advertising planners to monitor YouTube video trends across categories, regions, and time.
-
+------------------------------------------------------------
+🌐 LINK AL DASHBOARD (TABLEAU PUBLIC)
+------------------------------------------------------------
+Dashboard: "Tendencias de Videos por País – YouTube"
+URL: https://public.tableau.com/views/Sprint_12_TendenciasenVideos_EG/DashboardSprint12?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 The dashboard replaces manual weekly analysis with a self-service tool that supports daily decision-making for video advertising strategy.
 ---
 
@@ -63,14 +67,6 @@ Global filters:
 - Tableau Public
 - CSV data source
 - Data visualisation & dashboard design
-
----
-------------------------------------------------------------
-🌐 LINK AL DASHBOARD (TABLEAU PUBLIC)
-------------------------------------------------------------
-Dashboard: "Tendencias de Videos por País – YouTube"
-URL: https://public.tableau.com/views/Sprint_12_TendenciasenVideos_EG/DashboardSprint12?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
 
 ## Author
 **Erika González**  
